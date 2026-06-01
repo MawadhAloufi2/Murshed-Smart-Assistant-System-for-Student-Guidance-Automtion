@@ -1,4 +1,4 @@
-# Murshid
+# Murshid : Smart Assistant System for Student Guidance Automtion
 
 Murshid is a smart academic advising web system. It helps students ask questions about their study plan and academic regulations through one chatbot interface.
 
